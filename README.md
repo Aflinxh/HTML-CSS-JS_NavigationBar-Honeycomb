@@ -9,6 +9,8 @@ This is what will you get in this code...
 
 Navigation Bar Honeycomb, features:
 
+[honeycomb.webm](https://user-images.githubusercontent.com/106858846/211167148-54e11695-28eb-452e-a101-77ea6ae37f39.webm)
+
 - Honeycomb-like Expanding and Shrinking menus concept
 - Contains 6 items
 - Expanding items when middle menu on first click, and will shrinking again on the next click
